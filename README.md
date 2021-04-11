@@ -2,7 +2,8 @@
 This project consists of 2 malware programs that contain computer worms that can find and infect particular files in the Victim's computer.
 
 ## Installations:
-THe programs were executed on Ubuntu 16.04 32-bit SEED VMs run on VirtualBox
+The programs were executed on Ubuntu 16.04 32-bit SEED VMs run on VirtualBox.
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary packages: 
 
 ```bash
