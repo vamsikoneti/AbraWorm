@@ -16,7 +16,9 @@ sudo pip install scp
 ## Execution:
 Run the following command on the Attacker computer:
 
+```bash
 sudo python <filename>.py
+```
 
 ## abrapoly.py: 
 This is a computer worm that  runs in an infinite loop. It alters the contents of the files with a particular extension. For demonstration purposes, I'm using '.foo' extension.
